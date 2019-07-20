@@ -9,7 +9,7 @@
 
 
 
-7. 
+7. Jawaban Soal No7 
 
 A : Perintah SQL
 	
