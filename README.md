@@ -19,5 +19,5 @@ A : Perintah SQL
 
 
 <b>7.1 Halaman Utama:
-![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/tree/master/Soalno7/ScreenShoot/01.%20Tampil.PNG)
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/01.%20Tampil.PNG)
 
