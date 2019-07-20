@@ -21,3 +21,23 @@ A : Perintah SQL
 <b>7.1 Halaman Utama:
 ![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/01.%20Tampil.PNG)
 
+<b>7.2 Tambah:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/02.%20Tambah.PNG)
+
+<b>7.3 Input:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/03.%20Input.PNG)
+
+<b>7.4 Pop UP Tambah:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/04.%20PopUP.PNG)
+
+<b>7.5 Edit:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/05.%20Edit.PNG)
+
+<b>7.6 Poop UP Edit:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/06.%20PoopUPEdit.PNG)
+
+<b>7.7 Hapus:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/07.%20Hapus.PNG)
+
+<b>7.8 Poop Up Hapus:
+![Demo 1](https://raw.githubusercontent.com/shoifuddin/JawabanBatch2K4_iip/master/Soalno7/ScreenShoot/08.%20PoopUPHapus.PNG)
